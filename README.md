@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://engineeringgraphic.blogspot.com/](https://engineeringgraphic.blogspot.com/)
 
-- 💬 Ask me about **Game Development, Unity**
+- 💬 Ask me about **Game Development, Unity, C# and C++**
 
 - 📫 How to reach me **vishalpawar1784@gmail.com**
 
