@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Pawar</h1>
 <h3 align="center">A passionate Game Developer from India</h3>
 
-- 🔭 I’m currently working on [Bounce Ball](https://github.com/Vishalpawar03/Bounce-Ball)
+- 🔭 I’m currently working on [Bounce Ball](https://github.com/vishalpawar26/Bounce-Ball)
 
 - 🌱 I’m currently learning **Game Development, C#, C++, Python etc...**
 
