@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Pawar</h1>
-<h3 align="center">I am a MERN Developer and a Unity game developer.</h3>
+<h3 align="center">I am a MERN Stack Developer and a Unity game developer.</h3>
 <p>- 🌱 I’m currently learning MERN Stack</p>
 <p>- 💬 Ask me about HTML5, CSS3, JavaScript, C++, Unity</p>
 <p>- 📫 How to reach me vishalpawar1784@gmail.com</p>
